@@ -28,7 +28,6 @@ Here's a walkthrough of implemented required features:
 
 <img src='<div>
     <a href="https://www.loom.com/share/6457c9189ca34be2bd52855acb842367">
-      <p>Vite + React - 3 March 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/6457c9189ca34be2bd52855acb842367">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6457c9189ca34be2bd52855acb842367-with-play.gif">
