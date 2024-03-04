@@ -1,5 +1,4 @@
-# Web Development Project 1 - *Things to do in San Francisco*
-
+ALL MY WORK WENT INTO MASTER BRANCH, IN THE OTHER BRANCH
 Submitted by: **Allan Constanza*
 
 This web app: **San Francisco: Things to do**
