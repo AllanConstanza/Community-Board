@@ -26,7 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/Lzcq4Tk)](https://imgur.com/udAqRj9)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='<div>
+    <a href="https://www.loom.com/share/6457c9189ca34be2bd52855acb842367">
+      <p>Vite + React - 3 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/6457c9189ca34be2bd52855acb842367">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6457c9189ca34be2bd52855acb842367-with-play.gif">
+    </a>
+  </div>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
