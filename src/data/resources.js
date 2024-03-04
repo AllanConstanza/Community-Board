@@ -1,7 +1,7 @@
 const resources = [
     {
 
-      //Adding titles description and images
+      //Adding titles description and final images
       title: 'Palace of Fine Arts',
       description: 'It is a great place for tourists to visit for a moment of tranquility.',
       image: '/images/palaceOfArts.jpg',
